@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ferrari", "03. Ferrari\Ferrari\Ferrari.csproj", "{2F5144F1-771E-49D2-82F8-28A8A94BE9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F5144F1-771E-49D2-82F8-28A8A94BE9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5144F1-771E-49D2-82F8-28A8A94BE9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5144F1-771E-49D2-82F8-28A8A94BE9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5144F1-771E-49D2-82F8-28A8A94BE9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06136BA4-86E2-482B-A7E0-9F436F058CE5}
+	EndGlobalSection
+EndGlobal
